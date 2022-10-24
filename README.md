@@ -14,4 +14,8 @@ Various CPU scheduling algorithms are simulated using C language.
 2. Shortest Remaining Time First (SRTF)
 3. Priority
 
-Reference: https://en.wikipedia.org/wiki/Scheduling_(computing)
+### References
+
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/
