@@ -13,3 +13,5 @@ Various CPU scheduling algorithms are simulated using C language.
 1. Round Robin (RR)
 2. Shortest Remaining Time First (SRTF)
 3. Priority
+
+Reference: https://en.wikipedia.org/wiki/Scheduling_(computing)
